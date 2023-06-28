@@ -23,8 +23,8 @@ $database_name = "fullmetal alchemist card data";
 
 /* Online Db credentials (None functional)*/
 $servername = "fdb30.awardspace.net";
-$username = "3769359_fma";
-$password = "test1234";
+$username = "USERNAME";
+$password = "PASSWORD";
 $database_name = "3769359_fma";
 
 
